@@ -1,4 +1,4 @@
-#first project ok
+#first project done
 # facebook
 # updated form website for second time
 npm install
