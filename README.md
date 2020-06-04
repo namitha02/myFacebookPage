@@ -1,4 +1,4 @@
-#first project ok
+#new demo account
 # facebook
 # updated form website for second time
 npm install
